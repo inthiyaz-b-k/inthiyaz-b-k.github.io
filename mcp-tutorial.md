@@ -79,13 +79,11 @@ If you're building with **OpenAI's APIs** (like chat.completions or functions), 
 2. **Multimodal context**: Include images, documents, or structured data
 3. **Tool use orchestration**: Say the model can use APIs (like a calculator or database) — MCP helps define those tools in context.
 
----
 
 **🔧 Bonus Tip: MCP = Protocol, Not a Product**
 
 MCP is **not a tool or product** — it’s a **standardized way of shaping the context** you send to models. You can implement MCP in your app logic, your API calls, or even your prompt engineering style.
 
----
 
 **🧠 Recap**
 | Level        | What You Learn                                                            |
